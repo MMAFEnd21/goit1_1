@@ -1,0 +1,25 @@
+<section>
+        <h2>
+            Best Selling Product
+        </h2>
+        <ul>
+            <li>
+                <button type="button">Chair</button>
+            </li>
+            <li>
+                <button type="button">Beds</button>
+            </li>
+            <li>
+                <button type="button">Sofa</button>
+            </li>
+            <li>
+                <button type="button">Lamp</button>
+            </li>
+        </ul>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </section>
